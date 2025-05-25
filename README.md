@@ -24,7 +24,7 @@ Sou estudante de programação com foco em **Java para backend** e **IoT com C**
 
 ## 📈 Estatísticas do GitHub
 
-![Martins's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Martins&show_icons=true&theme=dracula)
+![Martins GitHub Stats](https://github-readme-stats.vercel.app/api?username=Martins&show_icons=true&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Martins&layout=compact&theme=dracula)
 
 ---
